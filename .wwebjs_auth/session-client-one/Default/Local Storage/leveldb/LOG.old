@@ -1,0 +1,6 @@
+2022/09/12-09:04:03.216 3b78 Reusing MANIFEST C:\Users\user\Documents\code\wa blast\.wwebjs_auth\session-client-one\Default\Local Storage\leveldb/MANIFEST-000001
+2022/09/12-09:04:03.216 3b78 Recovering log #3
+2022/09/12-09:04:03.217 3b78 Reusing old log C:\Users\user\Documents\code\wa blast\.wwebjs_auth\session-client-one\Default\Local Storage\leveldb/000003.log 
+2022/09/12-09:06:03.831 654 Level-0 table #5: started
+2022/09/12-09:06:03.835 654 Level-0 table #5: 17971 bytes OK
+2022/09/12-09:06:03.837 654 Delete type=0 #3
